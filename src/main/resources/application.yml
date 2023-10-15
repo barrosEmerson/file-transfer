@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+# aws credentials
+aws:
+  accessKey: AKIA2W2B5JO5M5V6ULR2
+  secretKey: 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
+  region: us-east-1
+  s3:
+    bucket: awebooksbarrostech
